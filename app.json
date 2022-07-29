@@ -1,5 +1,5 @@
 {
-  "name": "You Need Music",
+  "name": "Ep Music",
   "description": "A simple Telegram bot to download music.",
   "keywords": [
     "bot",
@@ -12,33 +12,33 @@
   "env": {
     "API_ID": {
       "description": "Your Telegram API ID",
-      "value": ""
+      "value": "16884543"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "cc4535cefe1fa2e167d75a5e2ac24246"
     },
     "BOT_TOKEN": {
       "description": "Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
-      "value": ""
+      "value": "5449226004:AAGG6QmJcWqwb98yQ_vHIzid8-PAavG4TEs"
     },
     "OWNER_ID": {
       "description": "The ID of the owner of the bot",
-      "value": ""
+      "value": "5196689118"
     },
     "SUDO_USERS": {
       "description": "The ID of the sudo users of the bot",
-      "value": "",
+      "value": "5196689118",
       "required": false
     },
     "AUTH_CHATS": {
       "description": "The ID of the authorized chats of the bot",
-      "value": "",
+      "value": "-1001620454933",
       "required": false
     },
     "LOG_GROUP": {
       "description": "The ID of the group to log to",
-      "value": "",
+      "value": "-1001620454933",
       "required": false
     },
     "SPOTIPY_CLIENT_SECRET": {
