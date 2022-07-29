@@ -6,7 +6,7 @@
     "music",
     "music downloader"
   ],
-  "repository": "https://github.com/rozari0/NeedMusicRobot/",
+  "repository": "https://github.com/EpicBotSl/NeedMusicRobot/",
   "website": "https://t.me/NeedMusicRobot",
   "success_url": "https://t.me/NeedMusicRobot",
   "env": {
